@@ -1,10 +1,10 @@
-# Web Dev Persona
+# Web Dev WSL Persona
 
-## Summary
+## Bio
 
 “Linus” is a developer building web apps using NodeJS on a Windows device in a Linux environment with WSL.
 
-## Bio
+## Goals and challenges
 
 Linus is a developer who wants to create web apps using Node.js.
 
@@ -20,7 +20,7 @@ Linus works at a company that utilizes M365 products, hosting meetings on Micros
 
 Linus likes to use Visual Studio Code as his primary source-code editing tool and recently learned that Windows Subsystem for Linux (WSL) enables working in a Linux environment from a Windows device without all of the issues of dual-booting or the performance overhead of using a VM. However, Linus is new to using Windows Subsystem for Linux and doesn’t yet understand it very well.
 
-## Scenarios
+## Scenario tasks
 
 1. Install a Linux distribution and configure the file system with WSL.
 
@@ -43,3 +43,10 @@ Linus likes to use Visual Studio Code as his primary source-code editing tool an
 2. Develop an AI workflow locally with Tensorflow.
 
     Linus wants his team and company to be on the cutting edge by incorporating AI features into their web apps. Linus wants the team to build and deploy their own machine learning models using the company's private customer data, but also understands that most of the developers on his team are new to working with AI. He chooses to use Tensorflow because of the multipe layers of abstraction it provides, allowing his team to choose the right one for their needs as beginners. Linus needs to know how to install TensorFlow within the Linux environment on his Windows machine. How to transfer his company's private customer data to the Linux environment so that it can be used to train the ML model with TensorFlow. Once the model is trained, he needs to know how to know the proper format for saving it so that it can be easily loaded and used later for predictions. He needs to know how to integrate the trained TensorFlow model into his Node.js web app, including loading the saved model and using it to make predictions based on input from the web app user. Lastly, he needs to know how to deploy the updated web app with his trained TensorFlow model so that it is hosted on the Azure cloud inside his web app container so that it can be accessed by the users of his web apps.
+
+## Additional Demographics
+
+- **Years of experience:** 10
+- **Industry:** Entertrainment
+- **Job title:** Senior Developer
+- **Preferred coding languages:** JavaScript, Typescript, HTML, CSS
