@@ -16,11 +16,10 @@ Taylor is most familiar with C# and XAML, but is interested in trying new things
 
 ## Scenario tasks
 
+1. Taylor needs to understand which platforms are supported by WinUI 3 and the Windows App SDK if she ports the UWP games to WinUI using the .NET Upgrade Assistant. She is unsure if the games will be supported on Xbox and IoT devices.
+1. Taylor wants to know what other frameworks are available for migrating or recreating the UWP games so they will support Windows, Xbox, and IoT devices. She would like would like to understand the features and benefits of each framework and how well they fit her current skillset.
+1. The team would like to find the best learning resources for the chosen framework so that they can quickly get up to speed and start migrating the UWP games. They would like to know where to find the best documentation, tutorials, and samples for the chosen framework.
 1. TBD
-
-2. TBD
-
-3. TBD
 
 ## Advanced scenarios
 
