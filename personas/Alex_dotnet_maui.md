@@ -23,11 +23,14 @@ Alex is most familiar with Visual Studio and plans to use it as the IDE. Alex wo
 ## Scenario tasks
 
 1. Alex needs to install and set up a .NET MAUI development environment.
-
-2. TBD
+1. Alex needs to create the Windows app first but wants to ensure that any features developed can easily be adapted to the iOS and Android platforms.
+1. Alex needs to test the Windows, iOS and Android apps while developing with Visual Studio on Windows.
+1. TBD
 
 ## Advanced scenarios
 
+1. Alex wants the app to call some APIs deployed to an Azure App Service. The app will need to use the current user's Microsoft Entra ID account to authenticate when making the calls. There will likely be many API calls made as the users are using the app, and Alex only wants to prompt the users to authenticate once during their session. The authentication method needs to work on every target platform.
+1. Alex wants to migrate one of their team's existing Xamarin.Forms apps to .NET MAUI. The current app only targets iOS and Android, and Alex's team wants the .NET MAUI app to also have a Windows version.
 1. TBD
 
 ## Additional Demographics

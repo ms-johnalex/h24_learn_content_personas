@@ -21,10 +21,9 @@ Morgan is most familiar with C# and Python. He uses Visual Studio as his IDE. Ja
 ## Scenario tasks
 
 1. Morgan needs to learn about how to integrate new Windows AI features into his existing WPF apps.
-
-2. TBD
-
-3. TBD
+1. Most of the legacy WPF apps at Morgan's company target the .NET Framework version of WPF. Morgan needs to learn how to update one of these legacy apps to target .NET 8 or later to improve its performance and security, as well as leverage some of the companies shared class libraries that currently target .NET 8.
+1. After updating their WPF app to .NET 8, it needs to consume some Windows App SDK APIs. Morgan isn't sure if this is possible and wants to learn more about how they can do this.
+1. TBD
 
 ## Advanced scenarios
 
