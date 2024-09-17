@@ -1,4 +1,3 @@
-```
 # Enterprise Developer - Teams App Persona
 
 ## Bio
@@ -40,4 +39,3 @@ Scott is most familiar with Visual Studio Code and plans to use it as their IDE.
 - **Industry:** Enterprise Software Development
 - **Job title:** Senior Developer
 - **Preferred coding languages:** JavaScript, TypeScript, Node.js, HTML, CSS, Visual Studio Code, Slack API, Microsoft Teams SDK
-```
