@@ -2,10 +2,18 @@
 Hackathon 24 project
 
 
+
 ## Goals
 
-Create a process for a Content Developer to feel confident they have tools to test their content against a persona that represents their target audience.
+Create a process for a Content Developer to feel confident they have tools to test their content against an AIP (AI persona) that represents their target audience.
 The results of the test should highlight any areas in the docs that need improvement.
+
+## Scenarios
+
+1. A writer is working on topics for a new feature area. They use information from the feature owners to make a list of key scenarios and then create their docs.
+Using the AIP (AI Persona) they confirm if, given the personas skillset and knowledge, they can achieve their goals with the new documentation.
+
+2. A writer notices a lot of feedback centered around a certain area in the docs. Clearly something is not clear, or something is missing. They share the docs with the AIP, and query them to determine which areas need more work. They make changes to the content, and then re-test it with the AIP and check the number of feedback tickets to confirm their changes have been useful.
 
 
 ## Hackathon 
@@ -21,8 +29,9 @@ The results of the test should highlight any areas in the docs that need improve
 2. Create a list of the key scenarios you want your developer to be able to achieve
 3. Select the persona or personas you are hoping your content will targetted at
 4. Test the content with the prompts taken from the list provided:
-4.1 Can my persona(s) achieve their key scenarios with the following content?
-4.2 How can this content be improved to meets the needs of these persona(s)?
+   
+* Can my persona(s) achieve their key scenarios with the following content?
+* How can this content be improved to meets the needs of these persona(s)?
 
    
    
