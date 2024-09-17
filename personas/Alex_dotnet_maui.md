@@ -20,7 +20,7 @@ After validating that the features work across platforms, Alex wants to optimize
 
 Alex is most familiar with Visual Studio and plans to use it as the IDE. Alex works on a Windows device.
 
-## Scenarios
+## Basic scenarios
 
 1. Alex needs to install and set up a .NET MAUI development environment.
 2. Alex needs to create the Windows app first but wants to ensure that any features developed can easily be adapted to the iOS and Android platforms.

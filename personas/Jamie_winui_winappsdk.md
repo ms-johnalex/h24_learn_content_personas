@@ -24,7 +24,7 @@ Jamie has identified a contract agency that can provide specialized Data Scienti
 
 Jamie is most familiar with Visual Studio and plans to use it as the IDE. Jamie works exclusively on a Windows device.
 
-## Scenario tasks
+## Basic scenarios
 
 1. Jamie needs to learn about the differences between WinUI 2 and WinUI 3 and how those differences will affect her normal workflow and bookmarked documentation references. She is used to working with the standalone WinUI 2 NuGet package in a UWP app environment. She uses C# and C++ in her project code and has used XAML islands in past projects. She needs to learn how to create a new project template that uses WinUI 3 and Windows App SDK. She doesn't quite understand how Windows App SDK differs from Windows SDK either. She has not yet installed Windows App SDK and has been using an older version of Visual Studio 2019.
 2. Now that Jamie understands the difference between WinUI 2 and WinUI 3, has installed the Windows App SDK, and has created a project template inside Visual Studio, she needs to know how to design a user interface layout with modern controls.

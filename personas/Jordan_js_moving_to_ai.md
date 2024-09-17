@@ -61,7 +61,7 @@ Jordan Mayer
 - **Use of version control systems**:
   - **Version Control**: Relies on Git for version control and uses GitHub for hosting repositories, collaborating with other developers, and managing code changes. Proficient in using Git commands and workflows, such as branching, merging, and pull requests, to ensure efficient and organized code management.
 
-## Scenarios
+## Basic scenarios
 
 ### Scenario 1: Understanding AI Concepts
 

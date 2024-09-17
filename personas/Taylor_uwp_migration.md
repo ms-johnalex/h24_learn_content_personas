@@ -14,7 +14,7 @@ Taylor has been receiving complaints about the outdated look and poor performanc
 
 Taylor is most familiar with C# and XAML, but is interested in trying new things and growing her developer skillset. She works on a Windows device.
 
-## Scenarios
+## Basic scenarios
 
 1. Taylor needs to understand which platforms are supported by WinUI 3 and the Windows App SDK if she ports the UWP games to WinUI using the .NET Upgrade Assistant. She is unsure if the games will be supported on Xbox and IoT devices.
 2. Taylor wants to know what other frameworks are available for migrating or recreating the UWP games so they will support Windows, Xbox, and IoT devices. She would like would like to understand the features and benefits of each framework and how well they fit her current skillset.
