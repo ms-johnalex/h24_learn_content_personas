@@ -20,7 +20,7 @@ Linus works at a company that utilizes M365 products, hosting meetings on Micros
 
 Linus likes to use Visual Studio Code as his primary source-code editing tool and recently learned that Windows Subsystem for Linux (WSL) enables working in a Linux environment from a Windows device without all of the issues of dual-booting or the performance overhead of using a VM. However, Linus is new to using Windows Subsystem for Linux and doesn’t yet understand it very well.
 
-## Scenario tasks
+## Scenarios
 
 1. Install a Linux distribution and configure the file system with WSL.
 
