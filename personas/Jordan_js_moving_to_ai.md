@@ -1,4 +1,4 @@
-# Persona: Experienced JavaScript Developer Transitioning to Azure AI Engineer
+# Experienced JavaScript Developer Transitioning to Azure AI Engineer Persona
 
 ## Name
 Jordan Mayer
