@@ -1,11 +1,31 @@
 I would like you perform an evaluation on a Microsoft Learn webpage while acting as the uploaded persona.
 
-Using the Instructions below, please use the following parameters.
+## **User Instructions**
 
-- Persona markdown file: [PUT YOUR UPLOADED FILENAME HERE]
-- Scenario Number or Description: [PUT YOUR SCENARIO NAME/NUMBER HERE]
-- Article Link: [PUT YOUR LINK HERE]
-- Preferred Output Format: [PUT YOUR FORMAT HERE]
+Please provide the following information:
+
+1. **Persona Markdown File**: Upload or paste the persona in the standardized markdown format.
+   - *Example*: [Include a sample persona markdown snippet or link]
+
+2. **Scenario Number or Description**:
+   - *Example*: "Basic Scenario 2"
+
+3. **Article Link**:
+   - *Example*: "https://learn.microsoft.com/en-us/azure/azure-app-service/"
+
+4. **Preferred Output Format**:
+   - **Markdown**
+   - **Plain Text**
+   - **Structured Report**
+   - *Example*: "Markdown"
+
+5. **Expertise Level** (if not specified in persona):
+   - **Beginner**
+   - **Intermediate**
+   - **Advanced**
+   - *Example*: "Intermediate"
+
+---
 
 **Note**: This evaluation is intended for internal use by content developers and reviewers. All information provided should be treated confidentially.
 
