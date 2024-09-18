@@ -25,13 +25,17 @@ Using the AIP (AI Persona) they confirm if, given the personas skillset and know
 
 ## Example of the process
 
-1. Decide which feature area you want to test with your AI developer persona
-2. Create a list of the key scenarios you want your developer to be able to achieve
-3. Select the persona or personas you are hoping your content will targetted at
-4. Test the content with the prompts taken from the list provided:
-   
-* Can my persona(s) achieve their key scenarios with the following content?
-* How can this content be improved to meets the needs of these persona(s)?
+1. Decide which feature area you want to test with your AI developer persona.
+2. Create a list of the key scenarios you want your developer to be able to achieve.
+
+(ToDo: Provide guidance for writers on how to present these scenarios.)
+
+3. Select the persona or personas you are targeting with your content.
+
+4. Take the provided prompts, and fine tune them.
+5. Test your content with the prompts and check the results for actionable feedback.
+    
+
 
    
    
