@@ -1,65 +1,24 @@
 # Experienced JavaScript Developer Transitioning to Azure AI Engineer Persona
 
-## Name
-Jordan Mayer
+## Bio
+Jordan Mayer is a seasoned JavaScript developer with over 8 years of experience in building and deploying web applications. Jordan has a strong background in both frontend and backend development, having worked extensively with JavaScript frameworks like React, Angular, and Node.js. Jordan has a deep understanding of web development best practices, design patterns, and data structures. Jordan is currently working as a Senior Full-Stack Developer at a mid-sized tech company. In this role, Jordan is responsible for designing and implementing scalable web applications, managing cloud infrastructure, and ensuring the performance and security of the applications. Jordan is passionate about the potential of artificial intelligence and is eager to transition into the role of an AI engineer. The rapid adoption of AI in the industry and the exciting opportunities it presents have motivated Jordan to upskill and explore new challenges in the AI domain.
+Jordan is experienced in deploying applications on Azure, with knowledge of services like Azure Functions, Cosmos DB, and Azure Static Web Apps.
+Jordan is proficient in JavaScript and TypeScript, with extensive experience in using frameworks like React, Angular, and Node.js. They are skilled in using development tools such as VS Code, Git/GitHub, npm, and various CLI tools.
 
-## Demographic Information
+## Goals and Challenges
 
-- **Age**: 32
-- **Gender**: Non-binary
-- **Geographic location**: San Francisco, CA
+Jordan wants to leverage Azure AI services to build intelligent applications that can enhance user experiences and drive business value.
+Jordan designs and implements scalable web applications, managing cloud infrastructure, and ensuring the performance and security of the applications.
 
-## Professional Background
+Jordan aims to gain a deep understanding of AI and machine learning, focusing on practical applications and real-world use cases.
 
-- **Job title and role within the organization**: Senior Full-Stack Developer
-- **Years of experience**: 8 years
-- **Industry**: Technology
-
-## Technical Skills
-- **Proficiency with Microsoft products**: Experienced in deploying applications on Azure, with knowledge of services like Azure Functions, Cosmos DB, and Azure Static Web Apps.
-- **Familiarity with other programming languages and tools**: Proficient in JavaScript and TypeScript, with extensive experience in using frameworks like React, Angular, and Node.js. Skilled in using development tools such as VS Code, Git/GitHub, npm, and various CLI tools.
-- **Level of expertise**: Advanced
-
-## Goals and Objectives
-
-- **Primary goals when using Microsoft products**: To leverage Azure AI services to build intelligent applications that can enhance user experiences and drive business value.
-- **Specific projects or tasks they work on**: Designing and implementing scalable web applications, managing cloud infrastructure, and ensuring the performance and security of the applications.
-- **Career aspirations**: To transition fully into the role of an AI engineer, leading AI projects and driving innovation within the organization.
-
-## Challenges and Pain Points
-
-- **Common obstacles faced when using Microsoft products**: Transitioning from traditional web development to AI engineering involves a steep learning curve. Familiarizing with new tools and frameworks specific to AI development is essential.
-- **Areas where they need more support or training**: Understanding AI models, prompt engineering, and data management. Developing new strategies to ensure the reliability and accuracy of AI applications.
-- **Frustrations with current tools or processes**: Evaluating and testing AI models is different from traditional software testing. Adapting to new ways of working and communicating with AI experts.
-
-## Learning Resources
-
-- **Documentation and Tutorials**: Relies on comprehensive documentation and tutorials to learn about Azure AI services, prompt engineering, and best practices for AI development.
-- **Community and Collaboration**: Engages with the developer community, participates in forums, and collaborates with peers to stay updated and gain insights from others' experiences.
-- **Hands-on Projects**: Prefers learning by doing, and actively seeks out hands-on projects and real-world scenarios to apply new skills and build confidence in AI development.
-
-## Future Aspirations
-
-- **AI Engineer Role**: Aims to transition fully into the role of an AI engineer, leading AI projects and driving innovation within the organization.
-- **Continuous Learning**: Committed to continuous learning and staying at the forefront of AI advancements, exploring new technologies and methodologies to enhance AI applications.
-
-## Behavior and Usage Patterns
-
-- **Frequency of using Microsoft products**: Frequently uses Microsoft products, especially Azure services, as part of their daily workflow.
-- **Preferred features and functionalities**: Prefers features that enhance productivity and streamline development processes, such as Azure Functions, Cosmos DB, Azure Static Web Apps, VS Code, Git/GitHub, and Azure AI Services.
-- **Typical workflows**: Involves a combination of development, deployment, and collaboration tasks, including writing and testing code, deploying applications to Azure, experimenting with Azure AI services, and collaborating with other developers and AI experts.
-
-## Tools and Environment Preferences
-
-- **Development environment setup**:
-  - **Operating System**: Likely uses macOS or Linux for their versatility and developer-friendly features.
-  - **Hardware**: Uses a high-performance laptop or desktop with ample RAM (16GB or more) and a fast processor (Intel i7 or equivalent) to handle resource-intensive tasks.
-- **Integration with other tools and platforms**:
-  - **Development Tools**: Prefers Visual Studio Code (VS Code) as the primary code editor, npm for managing JavaScript packages, and various CLI tools for development tasks.
-  - **Cloud Platforms**: Integrates development workflow with Azure, leveraging services like Azure Functions, Cosmos DB, and Azure Static Web Apps.
-  - **Collaboration Tools**: Uses Microsoft Teams or Slack for communication and project management tools like Jira or Trello to track tasks and progress.
-- **Use of version control systems**:
-  - **Version Control**: Relies on Git for version control and uses GitHub for hosting repositories, collaborating with other developers, and managing code changes. Proficient in using Git commands and workflows, such as branching, merging, and pull requests, to ensure efficient and organized code management.
+Transitioning from traditional web development to AI engineering involves a steep learning curve. Jordan will need to understand AI models, prompt engineering, and data management, which are quite different from web development concepts.
+Familiarizing with new tools and frameworks specific to AI development is essential. Jordan will need to learn how to integrate these tools with existing development workflows, which can be time-consuming and complex.
+Evaluating Gen AI app output is different from traditional software testing. Jordan will need to develop new strategies to ensure the reliability and accuracy of Gen AI applications.
+The transition from static to dynamic templates using the Azure Developer CLI requires Jordan to adapt to new workflows and tools, which involves a learning curve. The preference for maintaining a single copy of the codebase and using the Azure Developer CLI for template initialization means Jordan needs to streamline template management and reduce maintenance efforts
+The focus on Codespaces and devcontainers as the standard environment for developing and deploying applications requires Jordan to ensure consistency and reliability in their development workflow.
+Emphasizing code sanity, security, and performance highlights the importance of following best practices and guidelines to achieve higher deployment success rates.
+Addressing common challenges such as long post-create script execution times and the need for better feedback loops in Codespaces helps Jordan navigate potential roadblocks more effectively.
 
 ## Basic scenarios
 
@@ -69,7 +28,7 @@ Jordan starts by familiarizing themselves with basic AI and machine learning con
 
 ### Scenario 2: Experimenting with Azure OpenAI
 
-Jordan experiments with the Azure OpenAI service, reading the documentation and tutorials to understand its capabilities and use cases. They learn about the different models available, such as GPT-3.5, and how to use them for various tasks like text generation, summarization, and translation. Jordan should learn how to use identity instead of API keys or passwords when authenticating.
+Jordan needs to use identity instead of API keys or passwords when authenticating AI Apps.
 
 #### Steps in Scenario 2
 
