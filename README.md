@@ -19,7 +19,7 @@ Using the AIP (AI Persona) they confirm if, given the personas skillset and know
 ## Hackathon 
 
 1. Collect useful persona descriptions for content creators on the Learn team.
-2. Create a templated version of the personas suitable for use in a ChatGPT prompt.
+2. Create a templated version of the personas suitable for use in a Copilot Agent prompt.
 3. Create a series of example prompts to match specific tasks
 4. Wrap it all up into a process that can be included in the Contributors' Guide
 
