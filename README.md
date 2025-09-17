@@ -11,7 +11,7 @@ The persona has always been passive: a description that you keep in mind as you 
 
 However, thanks to AI, we can now turn personas into interactive artificial people that we can share our work with and get feedback in real time. We can even have conversations with them to find out what they’re interested in, and how well our content meets their needs.
 
-How does it work?
+### How does it work?
 
 Langauge models can play roles with prompting: so let's experiment with using them to play the roles of developers with various skills and experiences, and use them to test our technical documentation. If they are a new developer, can they get started writing an application given existing docs? If they are experienced, can they implement a new feature with what we have published?
 
@@ -29,25 +29,27 @@ Using the AIP (AI Persona) they confirm if, given the personas skillset and know
 2. A writer notices a lot of feedback centered around a certain area in the docs. Clearly something is not clear, or something is missing. They share the docs with the AIP, and query them to determine which areas need more work. They make changes to the content, and then re-test it with the AIP and check the number of feedback tickets to confirm their changes have been useful.
 
 
-## Hackathon 
+## Hackathon scope
 
-1. Collect useful persona descriptions for content creators on the Learn team.
-2. Create a templated version of the personas suitable for use in a Copilot Agent prompt.
-3. Create a series of example prompts to match specific tasks
-4. Wrap it all up into a process that can be included in the Contributors' Guide
+1. Create a useful persona description template for content creators on the Learn team.
+2. Create an agent to build a persona and related scenarios based off the template
+3. Use templated version of the personas in an Evaluator agent with a given Learn article.
+4. Create a series of example prompts to match specific tasks
+5. Wrap it all up into a process that can be included in the Contributors' Guide
 
-## Example of the process
+## Process flows
+1. Decide which article you want use to create your AI developer persona.
+2. Save your created persona file. [example personas link](https://github.com/ms-johnalex/h24_learn_content_personas/tree/main/personas)
+3. Select a scenario from a list of the key scenarios you want your developer to be able to achieve.
+4. Select the persona you are targeting with your content.
+5. Use the Persona-Powered Doc Evaluator agent and submit your persona, choose a scenario, and the learn article to be evaluated.
+6. Test your content with the agents and check the report for actionable feedback. 
+7. You can also interact with the persona in a "chat" mode and get additional insights on your content.
 
-1. Decide which feature area you want to test with your AI developer persona.
-2. Create a list of the key scenarios you want your developer to be able to achieve.
+## Agent prompts
 
-(ToDo: Provide guidance for writers on how to present these scenarios.)
-
-3. Select the persona or personas you are targeting with your content.
-
-4. Take the provided prompts, and fine tune them.
-5. Test your content with the prompts and check the results for actionable feedback.
-
+- [Persona Creator prompt link](https://github.com/ms-johnalex/h24_learn_content_personas/blob/main/current/test-prompts/persona_creator_assistant_prompt_091924_142823.md)
+- [Persona-Powered Doc Evaluator agent link](https://github.com/ms-johnalex/h24_learn_content_personas/blob/main/current/test-prompts/persona-powered_doceval_prompt_assistant_091924_130000.md)
 ## Tools and technologies used
 - M365 Agent - Agent development and testing
 - AI Foundry model playground - prompt development and testing
