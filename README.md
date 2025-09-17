@@ -1,5 +1,5 @@
-# h24_learn_content_personas
-AI Personas Hackathon 24 project
+# AI Personas Hackathon 24 project - Using AI to improve technical documentation
+
 This project transforms traditional user personas into interactive AI-driven entities that provide real-time feedback on technical documentation. By leveraging AI to simulate developers with varying skills and experiences, writers can engage in conversations with these personas to assess how well their content meets user needs. The Agents enable continuous testing and improvement of documentation, ensuring it is accessible and effective for a diverse range of developer audiences.
 
 ## Overview
@@ -15,7 +15,7 @@ How does it work?
 
 Langauge models can play roles with prompting: so let's experiment with using them to play the roles of developers with various skills and experiences, and use them to test our technical documentation. If they are a new developer, can they get started writing an application given existing docs? If they are experienced, can they implement a new feature with what we have published?
 
-Our goal is to create a toolkit that you can use to test your docs, and then find areas where you can improve the content, thus making things better for our external developer customers.
+Our goal is to create agents that you can use to create personas to test your docs, and then find areas where you can improve the content, thus making things better for our external developer customers.
 ## Goals
 
 Create a process for a Content Developer to feel confident they have tools to test their content against an AIP (AI persona) that represents their target audience.
