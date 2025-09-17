@@ -1,6 +1,6 @@
 # h24_learn_content_personas
-Hackathon 24 project
-
+AI Personas Hackathon 24 project
+This project transforms traditional user personas into interactive AI-driven entities that provide real-time feedback on technical documentation. By leveraging AI to simulate developers with varying skills and experiences, writers can engage in conversations with these personas to assess how well their content meets user needs. The Agents enable continuous testing and improvement of documentation, ensuring it is accessible and effective for a diverse range of developer audiences.
 
 ## Overview
 As a writer, wouldn’t it be great if you could ask your customers to read your content and provide feedback as you work? This project makes that possible - with an AI twist.
@@ -52,7 +52,7 @@ Using the AIP (AI Persona) they confirm if, given the personas skillset and know
 - M365 Agent - Agent development and testing
 - AI Foundry model playground - prompt development and testing
 
-# Result
+## Result
 Two agents.
 - Learn Persona agent: Assists users in creating detailed personas and scenarios based on Microsoft Learn articles, focusing on relevant goals and challenges, as well as basic and advanced scenarios that reflect realistic tasks. 
 - Persona-powered Doc Evaluator agent: Use a persona to determine if a provided article will help the persona accomplish their goal, based on their background, expertise level, and the scenario presented. Creates an evaluation report with insights and recommendations also provides an nps score based on how well the article completes the given scenario.  
