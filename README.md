@@ -2,7 +2,20 @@
 Hackathon 24 project
 
 
+## Overview
+As a writer, wouldn’t it be great if you could ask your customers to read your content and provide feedback as you work? This project makes that possible - with an AI twist.
 
+Traditionally a tool called “personas” has been used to predict what your customers want. A persona is a fictional but realistic example of a typical user. Personas are used to promote empathy and help prioritize features or inform design decisions.
+
+The persona has always been passive: a description that you keep in mind as you work.
+
+However, thanks to AI, we can now turn personas into interactive artificial people that we can share our work with and get feedback in real time. We can even have conversations with them to find out what they’re interested in, and how well our content meets their needs.
+
+How does it work?
+
+Langauge models can play roles with prompting: so let's experiment with using them to play the roles of developers with various skills and experiences, and use them to test our technical documentation. If they are a new developer, can they get started writing an application given existing docs? If they are experienced, can they implement a new feature with what we have published?
+
+Our goal is to create a toolkit that you can use to test your docs, and then find areas where you can improve the content, thus making things better for our external developer customers.
 ## Goals
 
 Create a process for a Content Developer to feel confident they have tools to test their content against an AIP (AI persona) that represents their target audience.
@@ -34,6 +47,16 @@ Using the AIP (AI Persona) they confirm if, given the personas skillset and know
 
 4. Take the provided prompts, and fine tune them.
 5. Test your content with the prompts and check the results for actionable feedback.
+
+## Tools and technologies used
+- M365 Agent - Agent development and testing
+- AI Foundry model playground - prompt development and testing
+
+# Result
+Two agents.
+- Learn Persona agent: Assists users in creating detailed personas and scenarios based on Microsoft Learn articles, focusing on relevant goals and challenges, as well as basic and advanced scenarios that reflect realistic tasks. 
+- Persona-powered Doc Evaluator agent: Use a persona to determine if a provided article will help the persona accomplish their goal, based on their background, expertise level, and the scenario presented. Creates an evaluation report with insights and recommendations also provides an nps score based on how well the article completes the given scenario.  
+
     
 
 
